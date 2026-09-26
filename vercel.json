@@ -3,5 +3,14 @@
   "buildCommand": "npm run build",
   "outputDirectory": ".vitepress/dist",
   "installCommand": "npm ci",
-  "cleanUrls": true
+  "cleanUrls": true,
+  "git": {
+    "deploymentEnabled": {
+      "**": false,
+      "main": true
+    }
+  },
+  "github": {
+    "autoJobCancelation": true
+  }
 }
