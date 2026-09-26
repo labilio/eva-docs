@@ -2,6 +2,12 @@
 
 独立 VitePress 文档站，正文为 Markdown，图片位于 public/。不依赖 Eva 原型运行时或数据库。
 
+## 在线地址
+
+- 主站：https://eva-docs-nine.vercel.app
+- 备用站：https://eva-docs-2xg.pages.dev
+- 源码：https://github.com/labilio/eva-docs（私有仓库）
+
 ## 本地编辑
 
 需要 Node.js 22 或更高版本。
