@@ -4,8 +4,8 @@
 
 ## 在线地址
 
-- 主站：https://eva-office-docs.vercel.app
-- 备用站：https://eva-office-docs.pages.dev
+- 主站：https://eva-ai-docs.vercel.app
+- 备用站：https://eva-ai-docs.pages.dev
 - 源码：https://github.com/labilio/eva-docs（私有仓库）
 
 ## 本地编辑
@@ -45,4 +45,4 @@ Vercel 和 Cloudflare Pages 连接本仓库，生产分支为 main，项目根�
 - Cloudflare Pages 排除 README.md、AGENTS.md、CONTRIBUTING.md、LICENSE、.gitignore、.github/* 和 maintainer/*，这些文件单独变化不触发构建。
 - Vercel 保留自动取消旧排队构建；内部说明与网站改动尽量合并成一批推送，减少无效发布。
 - 使用纯静态输出和浏览器本地搜索，不引入服务器函数、数据库或付费搜索服务。
-- Cloudflare 项目 eva-office-docs 为当前备用站；旧项目 eva-docs 停止自动部署，仅保留历史站点。
+- Cloudflare 项目 eva-ai-docs 为当前备用站；旧项目 eva-docs 和 eva-office-docs 停止自动部署，仅保留历史站点。
