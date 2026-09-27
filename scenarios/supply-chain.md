@@ -87,4 +87,4 @@
 
 你应该能够重新找到原讨论及对应任务，说明它属于哪个项目、谁负责、还有哪些待确认事项。任务中有可核对的完成标准，状态与实际进度一致。
 
-需要补充细节时，阅读[项目任务](../team/tasks.md)、[子区](../team/subareas.md)或[文件库](../resources/files.md)。
+需要补充细节时，阅读[项目任务](../team/projects.md#项目任务)、[子区](../team/messages.md#群聊与子区的关系)或[文件库](../resources/files.md)。

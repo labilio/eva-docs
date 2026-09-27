@@ -39,15 +39,15 @@ features:
 | --- | --- |
 | 个人助理、分身和数字员工有什么区别 | [我的 Agent](./personal/my-ai.md) |
 | 技能能帮我做什么 | [技能](./personal/skills.md) |
-| 项目、群聊和子区怎样配合 | [项目](./team/projects.md)、[子区](./team/subareas.md) |
-| 项目任务和对话请求有什么区别 | [项目任务](./team/tasks.md) |
+| 项目、群聊和子区怎样配合 | [项目](./team/projects.md)、[子区](./team/messages.md#群聊与子区的关系) |
+| 项目任务和对话请求有什么区别 | [项目任务](./team/projects.md#项目任务) |
 
 ## 带着工作来查找
 
 | 你想做什么 | 阅读这篇 |
 | --- | --- |
 | 找回以前的对话 | [对话管理](./personal/organize.md) |
-| 在群里请 AI 帮忙 | [消息与群聊](./team/messages.md) |
+| 在群里请 AI 帮忙 | [群聊与子区](./team/messages.md) |
 | 把讨论变成可跟进的工作 | [供应链协作实践](./scenarios/supply-chain.md) |
 | 查找文件或理解权限问题 | [文件库](./resources/files.md) |
 | 操作遇到困难 | [常见问题](./help/faq.md) |

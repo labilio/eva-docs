@@ -24,11 +24,9 @@ export default defineConfig({
         { text: '数字员工', link: '/resources/digital-employees' },
         { text: 'AI 小队', link: '/personal/squads' }] },
       { text: '团队协作', collapsed: false, items: [
-        { text: '通讯录', link: '/team/contacts' },
         { text: '项目', link: '/team/projects' },
-        { text: '消息与群聊', link: '/team/messages' },
-        { text: '子区', link: '/team/subareas' },
-        { text: '项目任务', link: '/team/tasks' }] },
+        { text: '群聊与子区', link: '/team/messages' },
+        { text: '通讯录', link: '/team/contacts' }] },
       { text: '资源与连接', collapsed: false, items: [
         { text: '文件库', link: '/resources/files' },
         { text: '连接器', link: '/resources/connections' }] },
