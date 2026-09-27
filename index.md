@@ -3,7 +3,7 @@ layout: home
 hero:
   name: Eva 智能办公系统
   text: 从第一次对话到团队协作
-  tagline: 跟着示例开始使用，认识 AI、项目与任务，再把它们用到自己的工作中。
+  tagline: 了解 Eva 的工作入口、AI 身份与团队协作。
   image:
     src: /eva.png
     alt: Eva 智能办公系统
@@ -16,8 +16,8 @@ hero:
       link: /guide/workspace
 features:
   - title: 与 Eva 一起工作
-    details: 把背景、目标和要求说明白，在同一段对话中补充信息、核对结果。
-    link: /personal/conversations
+    details: 创建与整理个人对话，选择技能处理工作。
+    link: /guide/quickstart
     linkText: 了解个人工作
   - title: 找到合适的 AI
     details: 区分个人助理、云端分身和数字员工，按工作需要使用单聊或 AI 小队。
@@ -25,13 +25,13 @@ features:
     linkText: 我的 Agent
   - title: 和团队推进项目
     details: 从群聊讨论到项目任务，明确负责人、截止日期和完成状态。
-    link: /scenarios/supply-chain
-    linkText: 跟着场景操作
+    link: /team/projects
+    linkText: 了解项目
 ---
 
 ## 第一次使用，从哪里开始
 
-先用[快速开始](./guide/quickstart.md)中的现成材料完成一次操作，再学习[结果查看](./personal/results.md)。不必先配置所有 AI 或连接外部服务。
+从[快速开始](./guide/quickstart.md)了解常用入口。
 
 ## 遇到陌生概念
 
@@ -48,8 +48,6 @@ features:
 | --- | --- |
 | 找回以前的对话 | [对话管理](./personal/organize.md) |
 | 在群里请 AI 帮忙 | [群聊与子区](./team/messages.md) |
-| 把讨论变成可跟进的工作 | [供应链协作实践](./scenarios/supply-chain.md) |
+| 把讨论变成可跟进的工作 | [项目任务](./team/projects.md#项目任务) |
 | 查找文件或理解权限问题 | [文件库](./resources/files.md) |
 | 操作遇到困难 | [常见问题](./help/faq.md) |
-
-本版根据设计原型编写，正式服务与演示能力的区别见[适用范围](./help/scope.md)。
