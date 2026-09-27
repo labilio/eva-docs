@@ -18,11 +18,12 @@ export default defineConfig({
         { text: '对话管理', link: '/personal/organize' },
         { text: '技能', link: '/personal/skills' }] },
       { text: '认识与使用 AI', collapsed: false, items: [
-        { text: '我的 Agent', link: '/personal/my-ai' },
-        { text: '个人助理', link: '/personal/assistants' },
-        { text: '云端分身', link: '/personal/avatars' },
+        { text: '联系人与 AI', link: '/personal/identities' },
+        { text: '本地助理', link: '/personal/assistants' },
+        { text: 'AI 分身', link: '/personal/avatars' },
         { text: '数字员工', link: '/resources/digital-employees' },
-        { text: 'AI 小队', link: '/personal/squads' }] },
+        { text: '专家与专家团', link: '/personal/experts' },
+        { text: '我的 Agent 与 AI 小队', link: '/personal/my-ai' }] },
       { text: '团队协作', collapsed: false, items: [
         { text: '项目', link: '/team/projects' },
         { text: '群聊与子区', link: '/team/messages' },

@@ -8,12 +8,14 @@
 | --- | --- | --- |
 | Eva 同学 | 个人工作的固定 AI 对话入口 | [开始使用](../guide/quickstart.md) |
 | 分组 | 个人对话的分类方式，也称文件夹 | [整理对话](../personal/organize.md) |
-| 我的 Agent | 集中使用具体 AI 身份与小队的入口 | [身份区别](../personal/my-ai.md) |
-| 个人助理 | 按个人工作用途配置的 AI，可以有多个 | [个人助理](../personal/assistants.md) |
-| 云端分身 | 对应某位真人的 AI 身份，每人最多一个 | [云端分身](../personal/avatars.md) |
+| 我的 Agent | 集中使用具体 AI 身份与小队的入口 | [使用入口](../personal/my-ai.md) |
+| 本地助理（个人助理） | 按个人工作用途配置的 AI，可以有多个 | [个人助理](../personal/assistants.md) |
+| AI 分身（云端分身） | 对应某位真人的 AI 身份，每人最多一个 | [云端分身](../personal/avatars.md) |
 | 数字员工 | 按具体工作能力提供的 AI 身份 | [数字员工](../resources/digital-employees.md) |
-| AI 小队 | 本人与若干可用 AI 组成的讨论空间 | [AI 小队](../personal/squads.md) |
+| AI 小队 | 本人与若干可用 AI 组成的讨论空间 | [AI 小队](../personal/my-ai.md#使用-ai-小队) |
 | 技能 | 处理某类工作的方法或能力 | [技能](../personal/skills.md) |
+| 专家 | 按专业领域配置职责与方法的 AI 角色 | [专家与专家团](../personal/experts.md) |
+| 专家团 | 由牵头专家和成员专家组成的专业配置 | [专家与专家团](../personal/experts.md) |
 
 ## 团队协作与资源
 

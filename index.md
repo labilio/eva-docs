@@ -21,7 +21,7 @@ features:
     linkText: 了解个人工作
   - title: 找到合适的 AI
     details: 区分个人助理、云端分身和数字员工，按工作需要使用单聊或 AI 小队。
-    link: /personal/my-ai
+    link: /personal/identities
     linkText: 我的 Agent
   - title: 和团队推进项目
     details: 从群聊讨论到项目任务，明确负责人、截止日期和完成状态。
@@ -37,7 +37,7 @@ features:
 
 | 你想了解什么 | 阅读这篇 |
 | --- | --- |
-| 个人助理、分身和数字员工有什么区别 | [我的 Agent](./personal/my-ai.md) |
+| 个人助理、分身和数字员工有什么区别 | [联系人与 AI](./personal/identities.md) |
 | 技能能帮我做什么 | [技能](./personal/skills.md) |
 | 项目、群聊和子区怎样配合 | [项目](./team/projects.md)、[子区](./team/messages.md#群聊与子区的关系) |
 | 项目任务和对话请求有什么区别 | [项目任务](./team/projects.md#项目任务) |
