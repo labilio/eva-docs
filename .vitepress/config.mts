@@ -25,6 +25,7 @@ export default defineConfig({
       { text: '团队协作', collapsed: false, items: [
         { text: '项目', link: '/team/projects' },
         { text: '群聊与子区', link: '/team/messages' },
+        { text: '关注与最近', link: '/team/following-and-recent' },
         { text: '通讯录', link: '/team/contacts' }] },
       { text: '资源与连接', collapsed: false, items: [
         { text: '文件库', link: '/resources/files' },
