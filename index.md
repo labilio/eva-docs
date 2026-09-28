@@ -39,7 +39,7 @@ features:
 | --- | --- |
 | 个人助理、分身和数字员工有什么区别 | [联系人与 AI](./personal/identities.md) |
 | 技能能帮我做什么 | [技能](./personal/skills.md) |
-| 项目、群聊和子区怎样配合 | [项目](./team/projects.md)、[子区](./team/messages.md#群聊与子区的关系) |
+| 项目、群聊和子区怎样配合 | [项目](./team/projects.md)、[子区](./team/messages.md#子区是什么) |
 | 项目任务和对话请求有什么区别 | [项目任务](./team/projects.md#项目任务) |
 
 ## 带着工作来查找
