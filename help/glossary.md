@@ -28,6 +28,7 @@
 | 普通群 | 独立维护成员的群聊，可以属于项目 | [群聊与子区](../team/messages.md) |
 | 子区 | 群聊里的专题会话，沿用所属群聊的成员范围 | [子区](../team/messages.md#子区是什么) |
 | 项目任务 | 有所属项目、完整编号与进度的工作记录 | [项目任务](../team/projects.md#项目任务) |
+| 任务订阅 | 将需要持续跟进的任务收进「我订阅的」，可以手动开启或取消 | [任务订阅](../team/task-subscription.md) |
 | 连接器 | 访问外部资源的连接与授权入口 | [连接中心](../resources/connections.md) |
 | MCP 服务 | 按工具接入协议向 AI 提供工具的服务 | [连接中心](../resources/connections.md) |
 | 文件库 | 集中组织个人或项目资料的位置 | [文件库](../resources/files.md) |

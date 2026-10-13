@@ -24,6 +24,7 @@ export default defineConfig({
         { text: '我的 Agent 与 AI 小队', link: '/personal/my-ai' }] },
       { text: '团队协作', collapsed: false, items: [
         { text: '项目', link: '/team/projects' },
+        { text: '任务订阅', link: '/team/task-subscription' },
         { text: '群聊与子区', link: '/team/messages' },
         { text: '关注与最近', link: '/team/following-and-recent' },
         { text: '通讯录', link: '/team/contacts' }] },
